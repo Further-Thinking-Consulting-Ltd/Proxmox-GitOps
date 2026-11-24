@@ -1,5 +1,4 @@
 {
-
     "proxmox": {
         "host":       "192.168.178.",
         "user":       "root@pam",
