@@ -1,16 +1,16 @@
 {
     "proxmox": {
-        "host":       "192.168.178.",
+        "host":       "192.168.3.",
         "user":       "root@pam",
         "password":   "",
 
         "node":       "pve",
-        "gateway":    "192.168.178.1",
+        "gateway":    "192.168.3.1",
         "mask":       "24",
         "interface":  "eth0",
         "bridge":     "vmbr0",
 
-        "storage":    "local:vztmpl",
+        "storage":    "NAS:vztmpl",
         "template":   "debian-13-standard_13.6-1"
     },
 
