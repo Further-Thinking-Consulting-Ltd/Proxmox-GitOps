@@ -1,5 +1,5 @@
 {
-    "AUTO_DEPLOY": "false",
+    "AUTO_DEPLOY": "true",
     "LIBS_BROKER_ENDPOINT" : "mqtt://gitops:megawatt-cee-phonation-theirs@192.168.3.35:1883",
     "LIBS_BRIDGE_ADAPTER"  : "zstack",
     "LIBS_BRIDGE_SERIAL"   : "/dev/serial/by-id/"
